@@ -9,8 +9,8 @@ module.exports = {
   bots: [{
     type: 'onebot:ws',
     server: 'http://localhost:6700',
-    selfId: 'QQ号',
-    token: 'QQ密码',
+    selfId: '850300443',
+    token: '199678xq',
   }],
   plugins: {
     common: {},
